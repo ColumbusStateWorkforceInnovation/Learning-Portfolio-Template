@@ -11,12 +11,12 @@ navbar_entries:
 project_entries:
   - title: Template Cheatsheet
     url: template-cheatsheet-post
-    desc: This is an example project, for Cybersecurity
+    desc: This is an example project, template cheatsheet
 
   - title: Template 1
     url: template-1-post
-    desc: This is an example project, for Data Analytics
+    desc: This is an example project, template 1
 
   - title: Template 2
     url: template-2-post
-    desc: This is a description for your post tile
+    desc: This is an example project, template 2
