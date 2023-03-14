@@ -9,10 +9,6 @@ navbar_entries:
     url: https://github.com/
 
 project_entries:
-  - title: Template Cheatsheet
-    url: template-cheatsheet-post
-    desc: This is an example project, template cheatsheet
-
   - title: Template 1
     url: template-1-post
     desc: This is an example project, template 1
