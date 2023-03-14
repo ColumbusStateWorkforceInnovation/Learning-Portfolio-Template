@@ -26,3 +26,4 @@ theme_config:
   
 plugins:
 - jekyll-remote-theme
+- jekyll-embed-video
